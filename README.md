@@ -4,4 +4,4 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|226|[Valid Anagram](https://leetcode.com/problems/gray-code/)| [Java](./)|Medium|
+|226|[Valid Anagram](https://leetcode.com/problems/gray-code/)| [Java](./GreyCode.java)|Medium|
