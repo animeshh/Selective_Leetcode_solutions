@@ -1,6 +1,4 @@
 #Selective LeetCode Problems and Solutions
-(Note: "&diamond;" means premium subscription only)
-
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
