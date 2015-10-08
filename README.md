@@ -1,4 +1,4 @@
-#Selected LeetCode Problems and Solutions
+#Selective LeetCode Problems and Solutions
 (Note: "&diamond;" means premium subscription only)
 
 
