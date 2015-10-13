@@ -1,4 +1,4 @@
-#Selective LeetCode Problems and Solutions
+#LeetCode Problems and Solutions
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
