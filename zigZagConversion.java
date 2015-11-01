@@ -22,8 +22,8 @@ public class Solution {
         int i=0;
         //List<List<Character>> list = new ArrayList<List<Character>>(numRows);
         StringBuilder []result = new StringBuilder[numRows];
-        //Tag:String Array needs to be intialised before use
-        :while(i<numRows)
+        //Tag:String Array needs to be initialised before use
+        while(i<numRows)
             result[i++] = new StringBuilder();
         i=0;
         int len = s.length();
